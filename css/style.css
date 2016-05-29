@@ -48,6 +48,9 @@ body{
   background: -webkit-linear-gradient(left, #00142d, #004688);
   background: linear-gradient(to right, #00142d, #004688);
   font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-weight: 500;
+  font-size: 12px;
 }
 section{
   margin: 50px;
