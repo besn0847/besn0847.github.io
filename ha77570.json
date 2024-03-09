@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/house-of-abbey/GarminHomeAssistant/main/config.schema.json",
+  "title": "77570",
+  "items": [
+    {
+      "entity": "light.ampoules_sdb",
+      "name": "SdB",
+      "type": "toggle"
+    }
+  ]
+}
