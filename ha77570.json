@@ -1,5 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/house-of-abbey/GarminHomeAssistant/main/config.schema.json",
+  "timeout": 5,
   "title": "77570",
   "items": [
     {
