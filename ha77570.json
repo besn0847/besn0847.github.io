@@ -5,7 +5,7 @@
   "items": [
     {
       "entity": "light.ampoules_sdb",
-      "name": "Sdb001",
+      "name": "Sdb002",
       "type": "toggle"
     }
   ]
