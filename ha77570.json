@@ -3,8 +3,28 @@
   "title": "77570",
   "items": [
     {
+      "entity": "switch.10002946db",
+      "name": "Appenti",
+      "type": "toggle"
+    },
+    {
       "entity": "switch.iot_77570_salon_lampe_onoff",
       "name": "Salon",
+      "type": "toggle"
+    },
+    {
+      "entity": "switch.iot_77570_jardin_lumiere_onoff",
+      "name": "Devant",
+      "type": "toggle"
+    },
+        {
+      "entity": "switch.iot_77570_bureau_lampe_onoff",
+      "name": "Bureau",
+      "type": "toggle"
+    },
+    {
+      "entity": "switch.1000296241",
+      "name": "Piscine",
       "type": "toggle"
     }
   ]
