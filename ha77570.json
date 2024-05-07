@@ -23,7 +23,7 @@
       "type": "toggle"
     },
     {
-      "entity": "switch.1000296241",
+      "entity": "switch.lumieres_piscine",
       "name": "Piscine",
       "type": "toggle"
     }
